@@ -9,7 +9,7 @@
 TravelBuddy is an intelligent AI-powered travel planning assistant built on IBM Watson AI. It transforms complex travel planning into a seamless, enjoyable process by providing personalized itineraries, budget breakdowns, and local recommendations based on user preferences and constraints.
 
 ## Interface Preview
-![Interface](img/interface.png)
+![Interface]([img/interface.png](https://github.com/Madhumita-747/Traveller/blob/main/interface.png))
 
 ## Kerala Recommendations
 ![Kerala 1](img/kerala1.png)
