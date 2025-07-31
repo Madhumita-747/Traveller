@@ -12,12 +12,12 @@ TravelBuddy is an intelligent AI-powered travel planning assistant built on IBM 
 ![Interface](https://raw.githubusercontent.com/Madhumita-747/Traveller/main/interface.png)
 
 ## Kerala Recommendations
-![Kerala 1](img/kerala1.png)
-![Kerala 2](img/kerala2.png)
-![Kerala 3](img/kerala3.png)
+![Kerala 1](https://github.com/Madhumita-747/Traveller/blob/main/kerala1.png)
+![Kerala 2](https://github.com/Madhumita-747/Traveller/blob/main/kerala2.png)
+![Kerala 3](https://github.com/Madhumita-747/Traveller/blob/main/kerala3.png)
 
 ## Mumbai Food Recommendations
-![Mumbai](img/mumbai.png)
+![Mumbai](https://github.com/Madhumita-747/Traveller/blob/main/mumbai.png)
 
 
 ## ✨ Features
