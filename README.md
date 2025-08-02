@@ -60,8 +60,7 @@ Travel planning can be overwhelming with countless options for destinations, acc
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/the-introvert20/travelbuddy.git
-   cd travelbuddy
+   git clone https://github.com/Madhumita-747/Traveller
    ```
 
 2. **Set up IBM Watson Assistant**
